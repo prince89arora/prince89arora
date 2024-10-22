@@ -6,8 +6,10 @@
 
 - 🔭 Currently working on microservices `Java, Spring Boot, React, AWS`
 - 🌱 Learning `AWS, Rust, Devops, Terraform`
-- 💬 Ask me about `Java, React`
-- 📫 How to reach me: aroraprince151@gmail.com
+- 💬 Ask me about `Java, React, Web Applications`
+- 📫 Email: aroraprince151@gmail.com
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince89arora&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prince89arora&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince89arora&show_icons=true&theme=graywhite)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prince89arora&layout=compact&theme=graywhite)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prince89arora&theme=graywhite)
