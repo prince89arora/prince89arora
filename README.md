@@ -9,5 +9,5 @@
 - 💬 Ask me about `Java, React`
 - 📫 How to reach me: aroraprince151@gmail.com
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince89arora&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prince89arora&layout=compact)
